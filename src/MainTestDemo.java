@@ -20,6 +20,7 @@ public class MainTestDemo {
         Customer cust10 = new Customer(10, "Brisa O Connell", 1);
 
         List<Customer> customers = new ArrayList<Customer>();
+
         customers.add(cust1);
         customers.add(cust2);
         customers.add(cust3);
